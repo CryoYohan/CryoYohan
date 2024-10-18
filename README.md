@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there! I'm Cyril John Ypil👋
+Aspiring Python Developer, Data Scientist, Software Engineer
 
 <!--
 **CryoYohan/CryoYohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
