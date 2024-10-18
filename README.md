@@ -1,5 +1,8 @@
 ## Hi there! 👋 I'm Cyril
 Aspiring Python Developer, Data Scientist, Software Engineer
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 -🌱 I’m currently learning Intermediate and Advanced Python
 -😄 Pronouns: he/him
 
