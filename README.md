@@ -31,7 +31,7 @@
 
 ### :man_technologist: About Me :
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cebu, Philippines.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m studying as a Python Developer and contributing to college projects in both frontend and backend for building web applications.
 
 - :seedling: Exploring Python, Flask, Data Science, Machine Learning, AI.
 
