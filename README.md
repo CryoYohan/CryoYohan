@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Cyril
 Aspiring Python Developer, Data Scientist, Software Engineer
-🌱 I’m currently learning Intermediate and Advanced Python
-😄 Pronouns: he/him
+-🌱 I’m currently learning Intermediate and Advanced Python
+-😄 Pronouns: he/him
 
 <!--
 **CryoYohan/CryoYohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
