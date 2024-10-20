@@ -70,6 +70,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ### MY STATS:
 
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=CryoYohan&show_icons=true&theme=radical">
+<img alt="my top used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryoYohan">
 <!--
 **CryoYohan/CryoYohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
