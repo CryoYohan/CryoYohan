@@ -67,8 +67,9 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="APACHE" **alt="APACHE" width="60" height="60"/>
 </div>
 
-### MY STATS :<
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/darcula/0-profile-details.svg)
+### MY STATS:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CryoYohan&show_icons=true&theme=transparent)
 <!--
 **CryoYohan/CryoYohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
