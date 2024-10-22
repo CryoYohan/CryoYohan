@@ -64,7 +64,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg" title="APACHE" **alt="APACHE" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="APACHE" **alt="APACHE" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="APACHE" **alt="Kivy & KivyMD" width="80" height="60"/>
   <img src="https://github.com/user-attachments/assets/5695808f-2b9b-416d-82ec-a4b4fb9b5155" title="APACHE" **alt="APACHE" width="60" height="60"/>
 </div>
 
