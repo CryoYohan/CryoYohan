@@ -41,7 +41,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: In my free time, I develop websites using Flask and w3.css/tailwind.css. I also solve programming problems in leetcode and online courses.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cyril-John-Ypil-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/cyril-john-ypil-030b52299)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cyril-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/cyril-john-ypil-030b52299)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
