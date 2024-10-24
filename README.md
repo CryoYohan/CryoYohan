@@ -37,9 +37,9 @@
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cebu, Philippines.
 - :telescope: I’m studying as a Python Developer and contributing to college projects in both frontend and backend for building web applications, desktop applications and mobile applications (currently studying).
 
-- :seedling: Exploring Python, Flask, Data Science, Machine Learning, AI.
+- :seedling: Exploring Python, Flask, Data Science, Machine Learning, AI, and mobile app development
 
-- :zap: In my free time, I develop websites using Flask and w3.css/tailwind.css. I also solve programming problems in leetcode and online courses.
+- :zap: In my free time, I develop websites using Flask and w3.css/tailwind.css. I also solve programming problems in leetcode and study online courses in Udemy. Currently building mobile applications using kivy and kivyMD.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cyril-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/cyril-john-ypil-030b52299)
 ---
