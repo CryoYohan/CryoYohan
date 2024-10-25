@@ -37,7 +37,7 @@
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cebu, Philippines.
 - :telescope: I’m studying as a Python Developer and contributing to college projects in both frontend and backend for building web applications, desktop applications and mobile applications (currently studying).
 
-- :seedling: Exploring Python, Flask, Data Science, Machine Learning, AI, and mobile app development
+- :seedling: Exploring Python, Flask, Data Science, Machine Learning, Deep Learning, NLP, Neural Networks, AI, and mobile app development
 
 - :zap: In my free time, I develop websites using Flask and w3.css/tailwind.css. I also solve programming problems in leetcode and study online courses in Udemy. Currently building mobile applications using kivy and kivyMD.
 
