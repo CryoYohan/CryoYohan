@@ -2,7 +2,7 @@
   <h1 align="center"> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Cyril</h1>
   <h2 align="center">Aspiring Python Developer 🧑🏻‍💻 Data Scientist 🧑🏻‍🔬🧪 Software Engineer 👾</h2>
   <ul>
-    <li>🌱 I’m currently learning Intermediate and Advanced Python</li>
+    <li>🌱 I’m currently learning Intermediate and Advanced Python and AI,ML,NLP,DL etc.</li>
     <li>😄 Pronouns: he/him</li>
   </ul>
 </div>
