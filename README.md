@@ -73,7 +73,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=CryoYohan&show_icons=true&theme=radical"/>
 <img alt="my top languages" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryoYohan&layout=compact"/>
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api/wakatime?shareid=CryoYohan/d2ec2df2-9f3f-4ced-a4b6-790c8a46df83"/>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?Cryo=ffflabs)](https://github.com/CryoYohan/github-readme-stats)
 <!--
 **CryoYohan/CryoYohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
