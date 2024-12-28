@@ -73,18 +73,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=CryoYohan&show_icons=true&theme=radical"/>
 <img alt="my top languages" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryoYohan&layout=compact"/>
-<a href="https://github.com/CryoYohan/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cryo" />
-</a>
-<a href="https://github.com/CryoYohan/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cryo&layout=compact&langs_count=8&card_width=320" />
-</a>
-<a href="https://github.com/CryoYohan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cryo&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/CryoYohan/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cryo&repo=convoychat" />
-</a>
+<img alt="wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Cryo"/>
 <!--
 **CryoYohan/CryoYohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
