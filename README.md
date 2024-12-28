@@ -79,6 +79,12 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <a href="https://github.com/CryoYohan/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cryo&layout=compact&langs_count=8&card_width=320" />
 </a>
+<a href="https://github.com/CryoYohan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cryo&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/CryoYohan/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cryo&repo=convoychat" />
+</a>
 <!--
 **CryoYohan/CryoYohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
