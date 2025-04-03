@@ -1,5 +1,5 @@
 <div id="name">
-  <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Cyril</h1>
+  <h1 align="center"> Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Cyril</h1>
   <h2 align="center">Aspiring Python Developer 🧑🏻‍💻 Data Scientist 🧑🏻‍🔬🧪 Software Engineer 👾</h2>
   <ul>
     <li>🌱 I’m currently learning Intermediate and Advanced Python and AI,ML,NLP,DL, Data Analytics etc.</li>
