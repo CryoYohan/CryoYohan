@@ -1,41 +1,47 @@
-<div id="name">
-  <h1 align="center"> Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Cyril</h1>
-  <h2 align="center">Aspiring Python Developer 🧑🏻‍💻 Data Scientist 🧑🏻‍🔬🧪 Software Engineer 👾</h2>
-  <ul>
-    <li>🌱 I’m currently learning Intermediate and Advanced Python and AI,ML,NLP,DL, Data Analytics etc.</li>
-    <li>😄 Pronouns: he/him</li>
-  </ul>
+<div align="center">
+  
+# 👋 Hello World! I'm Cyril John Ypil
+
+### 🚀 Aspiring Python Developer | 🧠 Data Scientist | 💻 Software Engineer
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+🌐 *From Cebu, Philippines*  
+📚 *Currently mastering Python, AI/ML, and Full-Stack Development*  
+💡 *Passionate about solving problems with code*  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](http://linkedin.com/in/cyril-john-ypil-030b52299)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@cyrilypil)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://x.com/cryoyohan)
+[![Visitors](https://komarev.com/ghpvc/?username=CryoYohan&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/CryoYohan)
+
 </div>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="http://linkedin.com/in/cyril-john-ypil-030b52299">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@cyrilypil">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://x.com/cryoyohan">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <div>
-      <img src="https://komarev.com/ghpvc/?username=CryoYohan&style=flat-square&color=blue" alt=""/>
-  </div>
-</div>
+
 ---
 
-### :man_technologist: About Me :
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cebu, Philippines.
-- :telescope: I’m studying as a Python Developer and contributing to college projects in both frontend and backend for building web applications, desktop applications and mobile applications (currently studying).
+## 🔥 Current Focus
 
-- :seedling: Exploring Python, Flask, Django, Data Science, Machine Learning, Deep Learning, NLP, Neural Networks, AI, and mobile app development
+```python
+def my_learning_path():
+    current = {
+        'languages': ['Python', 'JavaScript', 'Java'],
+        'frameworks': ['Django', 'Flask', 'React'],
+        'data_science': ['Pandas', 'NumPy', 'TensorFlow'],
+        'goals': ['Build AI applications', 'Master cloud computing']
+    }
+    return current
+```
+📌 Now Learning:
 
-- :zap: In my free time, I develop websites using Flask and w3.css/tailwind.css. I also solve programming problems in leetcode and study online courses in Udemy. 
+Intermediate/Advanced Python concepts
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cyril-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/cyril-john-ypil-030b52299)
----
-### :hammer_and_wrench: Languages and Tools :
+Machine Learning & Neural Networks
+
+Natural Language Processing (NLP)
+
+Cloud Deployment (AWS/GCP)
+
+## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -64,22 +70,24 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
-### MY STATS:
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CryoYohan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CryoYohan&theme=radical"/> </div><div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryoYohan&layout=compact&theme=radical"/> </div>
+💡 Projects & Contributions
+🔹 Web Development: Building Flask/Django applications
+🔹 Data Science: Working on ML models for predictive analytics
+🔹 Open Source: Contributing to Python libraries
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=CryoYohan&show_icons=true&theme=radical"/>
-<!--<img alt="my top languages" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryoYohan&layout=compact"/>
-<img alt="wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Cryo"/>-->
-<!--
-**CryoYohan/CryoYohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"The best way to learn is by building real projects!"
 
-Here are some ideas to get you started:
+🌟 Fun Facts
+🎮 Gaming enthusiast in free time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕ Coffee fuels my coding sessions
+
+📚 Always reading tech blogs and documentation
+
+🎸 Learning to play guitar
+
+📫 Let's connect: Email Me | LinkedIn
+
+<div align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy coding!</b> 😊</em> </div> 
