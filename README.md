@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello World! I'm Cyril John Ypil
+# 👋 Hello I'm Cyril John Ypil
 
 ### 🚀 Aspiring Python Developer | 🧠 Data Scientist | 💻 Software Engineer
 
