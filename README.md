@@ -93,3 +93,7 @@ Cloud Deployment (AWS/GCP)
 📫 Let's connect: Email Me | LinkedIn
 
 <div align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy coding!</b> 😊</em> </div> 
+
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="cyril-john-ypil-030b52299" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/cyril-john-ypil-030b52299?trk=profile-badge">Cyril John Ypil</a></div>
+              
