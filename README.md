@@ -1,99 +1,98 @@
 <div align="center">
   
-# 👋 Hello I'm Cyril John Ypil
+# 🧝‍♂️ Hail, Traveler! I am Cyril John Ypil  
+### 🧙‍♂️ Python Wizard | 🔮 Data Seer | ⚔️ Code Forge Master
 
-### 🚀 Aspiring Python Developer | 🧠 Data Scientist | 💻 Software Engineer
+<img src="https://media.giphy.com/media/3o7TKsQ8UQ4l4LhGz6/giphy.gif" width="200"/>
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+🌄 *From the Shores of Cebu, Philippines*  
+📜 *Mastering Pythonic Runes, Palantír Visions, and Forging Full-Stack Artifacts*  
+⚔️ *"Not all those who wander are lost... but my code never is!"*
 
-🌐 *From Cebu, Philippines*  
-📚 *Currently mastering Python, AI/ML, and Full-Stack Development*  
-💡 *Passionate about solving problems with code*  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](http://linkedin.com/in/cyril-john-ypil-030b52299)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@cyrilypil)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://x.com/cryoyohan)
-[![Visitors](https://komarev.com/ghpvc/?username=CryoYohan&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/CryoYohan)
+[![Palantír Connection](https://img.shields.io/badge/LinkedIn-Connect-0d5c0d?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2c7a2c)](http://linkedin.com/in/cyril-john-ypil-030b52299)
+[![Bard's Scroll](https://img.shields.io/badge/YouTube-Subscribe-cc241d?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cyrilypil)
+[![Eagle Post](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/cryoyohan)
+[![Wandering Souls](https://komarev.com/ghpvc/?username=CryoYohan&label=Wandering%20Souls&color=2c7a2c&style=for-the-badge)](https://github.com/CryoYohan)
 
 </div>
 
 ---
 
-## 🔥 Current Focus
+## 🔮 The Great Quest
 
 ```python
-def my_learning_path():
+def fellowship_quest():
     current = {
-        'languages': ['Python', 'JavaScript', 'Java'],
-        'frameworks': ['Django', 'Flask', 'React'],
-        'data_science': ['Pandas', 'NumPy', 'TensorFlow'],
-        'goals': ['Build AI applications', 'Master cloud computing']
+        'weapons': ['Python', 'JavaScript', 'Java'], 
+        'magic': ['Django', 'Flask', 'React'],
+        'ancient_lore': ['Pandas', 'NumPy', 'TensorFlow'],
+        'quests': ['Forge AI Artifacts', 'Conquer Cloud Realms']
     }
     return current
 ```
-📌 Now Learning:
+## 📜 Currently deciphering scrolls of:
 
-Intermediate/Advanced Python concepts
+- Pythonic Elvish Runes (Advanced Concepts)  
+- Machine Learning Palantíri  
+- Natural Language Prophecies (NLP)  
+- Cloud Kingdom Deployment (AWS/GCP)  
 
-Machine Learning & Neural Networks
+---
 
-Natural Language Processing (NLP)
+## 🛡️ The Armory of Middle-Stack
 
-Cloud Deployment (AWS/GCP)
+| **Weapons** | **Magic Items** | **Ancient Tomes** | **Mounts & Steeds** |
+|-------------|-----------------|-------------------|---------------------|
+| ![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=ffd343) | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/sql-%23F29111?style=for-the-badge&logo=mysql&logoColor=white) | ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+---
 
+## 📜 Chronicles of the Code
 
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CryoYohan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CryoYohan&theme=radical"/> </div><div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryoYohan&layout=compact&theme=radical"/> </div>
-💡 Projects & Contributions
-🔹 Web Development: Building Flask/Django applications
-🔹 Data Science: Working on ML models for predictive analytics
-🔹 Open Source: Contributing to Python libraries
+<div align="center">
 
-"The best way to learn is by building real projects!"
+### 🏰 GitHub Stronghold Stats
+  
+![](https://github-readme-activity-graph.vercel.app/graph?username=CryoYohan&theme=merko&area=true&hide_border=true&custom_title=Path%20of%20the%20Commit%20Wizard)
+  
+| **Commits** | **Streak** | **Language Scrolls** |
+|-------------|------------|----------------------|
+| ![](https://github-readme-stats.vercel.app/api?username=CryoYohan&show_icons=true&theme=merko&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=CryoYohan&theme=merko) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CryoYohan&layout=compact&theme=merko) |
 
-🌟 Fun Facts
-🎮 Gaming enthusiast in free time
+</div>
 
-☕ Coffee fuels my coding sessions
+---
 
-📚 Always reading tech blogs and documentation
+## 🏹 Legendary Quests
 
-🎸 Learning to play guitar
+🔹 **Minas Tirith Keep** - Flask/Django fortress architecture  
+🔹 **Palantír Network** - Machine learning prophecy stones  
+🔹 **Mithril Forge** - Open-source contribution crafting  
+🔹 **Elven UI Realms** - React/Tailwind interfaces of light  
 
-📫 Let's connect: Email Me | LinkedIn
+> *"One does not simply walk into Mordor... without proper exception handling!"* ⚔️
 
-<div align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy coding!</b> 😊</em> </div> 
+---
 
+## 🗺️ Tales from the Road
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="cyril-john-ypil-030b52299" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/cyril-john-ypil-030b52299?trk=profile-badge">Cyril John Ypil</a></div>
-              
+🍻 | Pipe-weed connoisseur at Green Dragon Inn  
+⚔️ | Gaming quests in free moons  
+📚 | Archivist of ancient tech scrolls  
+☕ | Ent-draught (coffee) powered coding sessions  
+🎸 | Minstrel training (guitar) in progress  
+
+---
+
+<div align="center">
+  
+[![Send Palantír Message](https://img.shields.io/badge/Email-%20Send%20Owl-2c7a2c?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:your-email@example.com)
+  
+<img src="https://media.giphy.com/media/12p0O8nP5sL2w8/giphy.gif" width="250">
+  
+> **"May the Light of the Silmarils Guide Your Code!"** ✨
+
+</div>
