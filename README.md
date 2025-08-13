@@ -3,7 +3,8 @@
 # 🧝‍♂️ Hail, Traveler! I am Cyril John Ypil  
 ### 🧙‍♂️ Python Wizard | 🔮 Data Seer | ⚔️ Code Forge Master
 
-<img src="https://media.giphy.com/media/3o7TKsQ8UQ4l4LhGz6/giphy.gif" width="200"/>
+![tumblr_4a336f1716a86ec64fa45c29ca4cafa3_c7d8a105_500](https://github.com/user-attachments/assets/e1b729c8-8a0b-44a5-9eca-eb785b03bde8)
+
 
 🌄 *From the Shores of Cebu, Philippines*  
 📜 *Mastering Pythonic Runes, Palantír Visions, and Forging Full-Stack Artifacts*  
@@ -91,7 +92,8 @@ def fellowship_quest():
   
 [![Send Palantír Message](https://img.shields.io/badge/Email-%20Send%20Owl-2c7a2c?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:your-email@example.com)
   
-<img src="https://media.giphy.com/media/12p0O8nP5sL2w8/giphy.gif" width="250">
+![3f952fe5f74eb70751cf5d84a499f1c2](https://github.com/user-attachments/assets/3c2c48d4-9d07-45bd-8d86-5a445e72b139)
+
   
 > **"May the Light of the Silmarils Guide Your Code!"** ✨
 
