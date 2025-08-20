@@ -3,7 +3,7 @@
 # 🧝‍♂️ Hail, Traveler! I am Cyril John Ypil  
 ### 🧙‍♂️ Python Wizard | 🔮 Data Seer | ⚔️ Code Forge Master
 
-![tumblr_4a336f1716a86ec64fa45c29ca4cafa3_c7d8a105_500](https://github.com/user-attachments/assets/e1b729c8-8a0b-44a5-9eca-eb785b03bde8)
+![tumblr_4a336f1716a86ec64fa45c29ca4cafa3_c7d8a105_500](https://github.com/user-attachments/assets/e1b729c8-8a0b-44a5-9eca-eb785b03bde8)<br>
 
 
 🌄 *From the Shores of Cebu, Philippines*  
@@ -15,6 +15,15 @@
 [![Eagle Post](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/cryoyohan)
 [![Wandering Souls](https://komarev.com/ghpvc/?username=CryoYohan&label=Wandering%20Souls&color=2c7a2c&style=for-the-badge)](https://github.com/CryoYohan)
 
+</div>
+
+---
+
+## Trophies 🏆
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=CryoYohan&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  
 </div>
 
 ---
