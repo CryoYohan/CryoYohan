@@ -19,7 +19,7 @@
 
 ---
 
-<!--## 🏆Trophies
+## 🏆Trophies
 
 <div align="center">
   
@@ -28,7 +28,7 @@
   
 </div>
 
---- -->
+---
 
 ## 🔮 The Great Quest
 
